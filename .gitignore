@@ -3,4 +3,6 @@
 dags/**/*.pyc
 /.idea
 /logs
-/db-data
+**/db-data
+**/__pycache__
+**/.DS_Store
